@@ -41,7 +41,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "justcodeit.ro",
+                "url": "https://www.justcodeit.ro",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
